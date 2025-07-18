@@ -38,6 +38,9 @@ TCP/IP, UDP, Socket Programming, Packet Analysis (Wireshark), Network Protocols
 **Cybersecurity Focus:**  
 Network Security, Cryptography, Digital Forensics
 
+**Software Development:**  
+Software Development Life Cycle (SDLC), Agile / Extreme Programming (XP), Object-Oriented Programming (OOP), Version Control, Software Engineering Best Practices, Testing & Debugging
+
 **Soft Skills:**  
 Leadership, Public Speaking, Problem Solving
 
