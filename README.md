@@ -29,6 +29,12 @@ Java, Python, C, C++, HTML, CSS, SQL
 **Tools & Frameworks:**  
 Flask, BurpSuite, Wireshark, GDB, MySQL, PostgreSQL, SQLite, Excel
 
+**Operating Systems:**  
+Process Management, Virtual Memory, File Systems, System Calls
+
+**Networking:**  
+TCP/IP, UDP, Socket Programming, Packet Analysis (Wireshark), Network Protocols
+
 **Cybersecurity Focus:**  
 Network Security, Cryptography, Digital Forensics
 
