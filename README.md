@@ -8,9 +8,9 @@
 
 ### About Me
 
--  I'm a Year 3 undergraduate at the **National University of Singapore**, pursuing a Bachelor of Computing in **Information Security** with a Second Major in **Mathematics**.
+-  I'm a Year 4 undergraduate at the **National University of Singapore**, pursuing a Bachelor of Computing in **Information Security** with a Second Major in **Mathematics**.
 -  I'm passionate about **penetration testing**, **network security**, and **cryptography**, with hands-on experience in Wireshark, BurpSuite, and GDB.
--  GPA: **4.59 / 5**
+-  GPA: **4.54 / 5**
 -  I teach, I lead, and I build systems that actually work.
 
 ---
