@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/NUS-InfoSec%20%26%20Math-003D7C?style=flat&logo=degreeticker" alt="NUS" />
   <img src="https://img.shields.io/badge/GPA-4.54%20%2F%205.00-brightgreen?style=flat" alt="GPA" />
   <img src="https://img.shields.io/badge/CTF-Acronis%20%26%20STANDCON-ff69b4?style=flat" alt="CTFs" />
+  <img src="https://img.shields.io/badge/TikTok-Cybersecurity%20Engineer-FE2C55?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" alt="Infineon logo" height="20" />
   <img src="https://img.shields.io/badge/Infineon-Data%20Automation-D81219?style=flat" alt="Infineon" />
   <img src="https://img.shields.io/badge/Accenture-Systems%20Deployment-A100FF?style=flat&logo=accenture" alt="Accenture" />
 
@@ -71,6 +73,11 @@
   <img src="./terminal.svg" alt="Work Experience Terminal" width="720"/>
 </p>
 
+**Cybersecurity Engineer Intern | TikTok Private Limited** (Aug 2026 - Nov 2026)
+* Analysed HTTP request headers and behavioural features, including User-Agent strings, user identifiers, and device fingerprints, to characterise web-scraping patterns and attacker activity across TikTok Shop traffic at production scale (~1 million requests/second).
+* Contributed to the development and validation of a LangGraph multi-agent AI security system whose detection and feature-analysis agents process security queries, identify relevant scraping patterns, and generate analytical responses.
+* Collaborated with security and engineering teams to investigate emerging scraping behaviours and communicate findings that informed defensive detection and mitigation strategies.
+
 **Data Automation Engineer | Infineon Technologies Asia Pacific Pte Ltd** (Dec 2025 - Jun 2026)
 * Architected a real-time alerting ecosystem featuring automated email fault-detection and custom Webex Bot notifications to instantly flag data run failures for over 20 scripts.
 * Leveraged Large Language Models (LLMs) to automate log analysis, generating actionable troubleshooting summaries for over 20 different scripts.
@@ -112,6 +119,7 @@
 
 * **Acronis Capture the Flag (CTF)**: Led a 5-person team tackling advanced reverse engineering, cryptography, and network analysis challenges.
 * **STANDCON Capture the Flag (CTF)**: Successfully competed by solving over 10 challenges in digital forensics, binary exploitation, and web vulnerabilities.
+* **TISC CTF**: Successfully completed OSINT and cryptography challenges from the CTF competitions.
 
 ---
 
